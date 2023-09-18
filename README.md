@@ -11,7 +11,7 @@ to the sound generator and the visualizer.
 GUIs for the Meinungsorganist and MC.
 - [`smalldata_processing`](https://github.com/Regexose/smalldata_processing) contains the Processing-code used to generate a visual representation 
 of the discussion.
-- [`smalldata_audiorecorder`](https://github.com/Regexose/smalldata_audiorecorder) contains the script _recorder.py_ to record
+- [`smalldata_audiorecorder`](https://github.com/Regexose/smalldata_audioinput) contains the script _recorder.py_ to record
 spoken utterances, and the Arduino-code for the button to start/stop the audio-recording 
 
 
