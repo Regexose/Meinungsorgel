@@ -16,3 +16,7 @@ spoken utterances, and the Arduino-code for the button to start/stop the audio-r
 
 
 ![image](images/smalldata.png)
+
+# Start Meinungsorgel
+- on Terminal, cd to local path of `smalldata_utilities/proxy`
+- run proxy `python proxy.py'
